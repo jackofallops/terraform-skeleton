@@ -1,0 +1,5 @@
+.idea/
+*.tf.json
+*.plan
+terraform.tfstate*
+
